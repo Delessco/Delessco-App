@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "995645111382",
+    "firebase_url": "https://delessco.firebaseio.com",
+    "project_id": "delessco",
+    "storage_bucket": "delessco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995645111382:android:c0804d73380f53fe614ff7",
+        "android_client_info": {
+          "package_name": "com.delessco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995645111382-9cguqsjod53cvuhoku2u7j3vkhmogrnr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delessco",
+            "certificate_hash": "9840986a8740df5e12747ab123ed60a21ef87b8f"
+          }
+        },
+        {
+          "client_id": "995645111382-aatgc6c0ntrpqd5m7lkam652u0mig9uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBd4O-Slv_o12DbCnYLyxRqdR_QoE_uzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995645111382-aatgc6c0ntrpqd5m7lkam652u0mig9uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995645111382-rt6oijh4002jp89rn0d6ha34qmpoq898.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.delessco"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995645111382:android:a41020782574004b614ff7",
+        "android_client_info": {
+          "package_name": "example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995645111382-aatgc6c0ntrpqd5m7lkam652u0mig9uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBd4O-Slv_o12DbCnYLyxRqdR_QoE_uzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995645111382-aatgc6c0ntrpqd5m7lkam652u0mig9uj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995645111382-rt6oijh4002jp89rn0d6ha34qmpoq898.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.delessco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
